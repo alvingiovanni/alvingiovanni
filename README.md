@@ -10,7 +10,7 @@ An engineer with a passion in data, experienced working with data across various
 - Supply Chain
 
 <h1 align="left">Examples of Work </h1>
-My portfolio can be previewed [here](https://alvingiovanni.github.io/portfolio/)
+My portfolio can be previewed here: (https://alvingiovanni.github.io/portfolio/)
 
 
 - 💬 Let's talk about data
@@ -18,7 +18,7 @@ My portfolio can be previewed [here](https://alvingiovanni.github.io/portfolio/)
 - 📫 How to reach me: **alvingiovanni@outlook.com**
 - 😄 Pronouns: He/Him
 
-![Alvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvingiovanni&show_icons=true&theme=vue_dark)
+![Alvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvingiovanni&show_icons=true&theme=vue-dark)
 
 
 
