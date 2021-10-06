@@ -1,4 +1,4 @@
-### Hi! I'm Alvin Giovanni 🖥️💻
+# Hi! I'm Alvin Giovanni 🖥️💻
 an engineer that is passionate about data.
 
 - 💬 Let's talk about data
