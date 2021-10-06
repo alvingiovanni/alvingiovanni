@@ -4,6 +4,8 @@
 An engineer with a passion in data, experienced working with data across various industries; including logistics, supply chain, and engineering.
 
 <h1 align="left">Skills & Experience </h1>
+
+
 - Data Analysis
 - Data Science
 - Spreadsheets
@@ -13,6 +15,7 @@ An engineer with a passion in data, experienced working with data across various
 My portfolio can be previewed here: (https://alvingiovanni.github.io/portfolio/)
 
 ---
+
 - 💬 Let's talk about data
 - 📚 I want to learn more about data analysis, web UI
 - 📫 How to reach me: **alvingiovanni@outlook.com**
