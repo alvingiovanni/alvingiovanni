@@ -6,7 +6,7 @@
 - 📫 How to reach me: **alvingiovanni@outlook.com**
 - 😄 Pronouns: He/Him
 
-![Alvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvingiovanni&show_icons=true&theme=radical)
+![Alvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvingiovanni&show_icons=true&theme=discord_old_blurple)
 
 <!--
 **alvingiovanni/alvingiovanni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
