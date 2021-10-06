@@ -1,9 +1,9 @@
-# Hi! I'm Alvin Giovanni 🖥️💻
-an engineer that is passionate about data.
+<h1 align="center">Hi 👋, I'm Alvin Giovanni </h1>
+<h3 align="center">An engineer with passion in data.</h3>
 
 - 💬 Let's talk about data
 - 📚 I want to learn more about data analysis, web UI
-- 📫 How to reach me: alvingiovanni@outlook.com
+- 📫 How to reach me: **alvingiovanni@outlook.com**
 - 😄 Pronouns: He/Him
 <!--
 **alvingiovanni/alvingiovanni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
