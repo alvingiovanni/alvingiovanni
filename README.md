@@ -1,22 +1,24 @@
 ![splashbanner](https://github.com/alvingiovanni/alvingiovanni.github.io/blob/master/assets/images/splash-background.png)
 
-<h1 align="center">Hi 👋, I'm Alvin Giovanni </h1>
-<h3 align="center">An engineer with passion in data.</h3>
-
-
-
+<h1 align="left">Hi 👋, I'm Alvin Giovanni </h1>
 An engineer with a passion in data, experienced working with data across various industries; including logistics, supply chain, and engineering.
 
+<h1 align="left">Skills & Experience </h1>
+- Data Analysis
+- Data Science
+- Spreadsheets
+- Supply Chain
 
+<h1 align="left">Examples of Work </h1>
+My portfolio can be previewed [here](https://alvingiovanni.github.io/portfolio/)
 
-Now, I am in an endeavor to advance my data analysis skill and career.
 
 - 💬 Let's talk about data
 - 📚 I want to learn more about data analysis, web UI
 - 📫 How to reach me: **alvingiovanni@outlook.com**
 - 😄 Pronouns: He/Him
 
-![Alvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvingiovanni&show_icons=true&theme=discord_old_blurple)
+![Alvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvingiovanni&show_icons=true&theme=vue_dark)
 
 
 
