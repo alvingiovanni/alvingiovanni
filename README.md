@@ -1,4 +1,4 @@
-![splashbanner](https://github.com/alvingiovanni/alvingiovanni.github.io/blob/master/assets/images/splash-background.png)
+![splashbanner](https://github.com/alvingiovanni/alvingiovanni.github.io/blob/master/assets/images/splash-background2.png)
 
 <h1 align="left">Hi 👋, I'm Alvin Giovanni </h1>
 An engineer with a passion in data, experienced working with data across various industries; including logistics, supply chain, and engineering.
